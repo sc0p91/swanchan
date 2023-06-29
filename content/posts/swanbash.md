@@ -44,6 +44,11 @@ durchlesen bis ich verstanden habe dass ihr heute bei der
 Arbeit keine Orgie hattet xDDD
 ```
 
+```
+<Geru> Spielen wir am Samstag wieder Horny Cole?
+<Buden> Alter ich kann nicht mehr, mit was für geilem Kohl willst spielen?? Du meinst wohl Corn Hole?! xD
+<Geru> Haha ups xD ja Corn Hole^^
+
 ---
 
 seit gespannt auf viele weitere Beiträge
