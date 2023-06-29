@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>https://swanchan.ch/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Jun 2023 12:50:16 +0000</lastBuildDate><atom:link href="https://swanchan.ch/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swanbash</title>
+      <link>https://swanchan.ch/posts/swanbash/</link>
+      <pubDate>Thu, 29 Jun 2023 12:50:16 +0000</pubDate>
+      
+      <guid>https://swanchan.ch/posts/swanbash/</guid>
+      <description>Neuster Beitrag:
+&amp;lt;Geru&amp;gt; Ich fühle mich so ...amerikanisch &amp;lt;Bude&amp;gt; Hast du jemanden erschossen? seit gespannt auf viele weitere Beiträge</description>
+      <content>&lt;p&gt;&lt;!-- raw HTML omitted --&gt; Neuster Beitrag:&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;lt;Geru&amp;gt; Ich fühle mich so ...amerikanisch
+&amp;lt;Bude&amp;gt; Hast du jemanden erschossen?
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;seit gespannt auf viele weitere Beiträge&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://swanchan.ch/posts/welcome/</link>
+      <pubDate>Thu, 29 Jun 2023 12:25:57 +0000</pubDate>
+      
+      <guid>https://swanchan.ch/posts/welcome/</guid>
+      <description>Welcome! Dasch am swan sis neue Projekt do.</description>
+      <content>&lt;h1 id=&#34;welcome&#34;&gt;Welcome!&lt;/h1&gt;
+&lt;p&gt;Dasch am swan sis neue Projekt do.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
